@@ -1,138 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57b7d00e-fda7-44ff-bf6e-ddb64c7b81b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/entrenegociosac.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/compile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/debugbar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/filesystems.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/queue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/scout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/services.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/streams.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/factories/ModelFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/01.index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/01.installation/01.index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/01.installation/02.server-requirements.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/01.installation/03.server-configuration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/01.installation/04.installing-pyrocms.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/01.installation/05.installing-addons.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/02.contributing/01.index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/02.contributing/02.bug-reports.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/02.contributing/03.development-discussion.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/02.contributing/04.which-branch.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/02.contributing/05.security-vulnerabilities.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/02.contributing/06.coding-style.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/01.index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/02.the-addons-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/03.the-app-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/04.the-bootstrap-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/05.the-config-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/06.the-core-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/07.the-database-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/08.the-public-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/09.the-resource-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/10.the-routes-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/11.the-storage-directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/03.structure/12.the-vendor.directory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/04.configuration/01.index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/04.configuration/02.accessing-configuration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/04.configuration/03.streams-platform-configuration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/04.configuration/04.addon-configuration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/05.errors-and-logging/01.index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/05.errors-and-logging/02.configuration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/en/05.errors-and-logging/03.custom-exceptions.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nginx_app.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/js/components/Example.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/assets/sass/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/passwords.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/ar/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/fa/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/fa/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/fa/passwords.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/fa/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/tr/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/tr/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/tr/passwords.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/tr/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/streams/config/addons.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/streams/config/distribution.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/streams/config/navigation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/streams/config/themes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors/503.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/vendor/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/api.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/web.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/debugbar/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/streams/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/views/twig/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/CreatesApplication.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/ExampleTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.mix.js" />
-    </list>
+    <list default="true" id="57b7d00e-fda7-44ff-bf6e-ddb64c7b81b1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -230,12 +99,12 @@
       <option name="presentableId" value="Default" />
       <updated>1517775797349</updated>
       <workItem from="1517775799168" duration="776000" />
-      <workItem from="1525207931686" duration="379000" />
+      <workItem from="1525207931686" duration="438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1155000" />
+    <option name="totallyTimeSpent" value="1214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1235" height="777" extended-state="6" />
